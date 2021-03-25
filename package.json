@@ -2,7 +2,8 @@
   "name": "luhn-algorithm",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "lib/luhnAlgorithm.js",
+  "types": "lib/luhnAlgorithm.d.ts",
   "scripts": {
     "test": "jest",
     "build": "tsc"
